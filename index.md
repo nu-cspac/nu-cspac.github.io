@@ -4,7 +4,7 @@
 We seek to foster a community among Computer Science PhD students (CSPhDs), defined as all PhD students at Northwestern University who take one of the Computer Science qualifying exams outlined in the Graduate Student Manual in order to advance to candidacy in their degree. To this end, we:
 * Provide funding for groups, activities, and events organized by CSPhDs
 * Organize division-wide activities
-* Serve as liaisons between CSPhDs, the department administrators, and faculty as needed
+Serve as liaisons between CSPhDs, the department administrators, and faculty as needed
 We seek to give a voice to CSPhDs in department decisions that directly impact student life. These include, but are not limited to:
 * CSPhD student admissions
 * Faculty hiring
