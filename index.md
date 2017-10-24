@@ -23,7 +23,7 @@ financial resources to student iniatives, such as but not limited to
 reading groups and professionalization workshops. Currently,
 the Artificial Intelligence Journal Club (AIJC) is the only funded
 student initiative. If you would like to solicit a proposal for funding
-please email CSPAC@eecs.northwestern.edu with the following:
+please email [CSPAC@eecs.northwestern.edu](CSPAC@eecs.northwestern.edu) with the following:
 * A summary of the initiative and how it will benefit the larger CS PhD community
 * A budget which includes: 
 	* Requested amount of funding
