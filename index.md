@@ -26,6 +26,7 @@ PhD students at Northwestern University, and to give this community a voice with
 * German Espinosa (Swarm Robotics)
 * Winston (Zihao) Wang (Computational Photograph)
 * Prem Seetharaman (Machine Learning from Audio)
+* Abhratanu Dutta (CS Theory)
 
 ## Funding Student Iniatives
 One of the primary functions of CSPAC is to help the department alot
