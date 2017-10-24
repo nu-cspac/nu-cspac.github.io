@@ -1,5 +1,4 @@
 # Northwestern University Computer Science PhD Advisory Council
-![Under Construction](http://www.animatedgif.net/underconstruction/5consbar2_e0.gif)
 
 ### The Computer Science PhD Advisory Council (CSPAC) has a two-fold mission:
 We seek to foster a community among Computer Science PhD students (CSPhDs), defined as all PhD students at Northwestern University who take one of the Computer Science qualifying exams outlined in the Graduate Student Manual in order to advance to candidacy in their degree. To this end, we:
