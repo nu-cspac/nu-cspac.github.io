@@ -23,7 +23,7 @@ PhD students at Northwestern University, and to give this community a voice with
 * Irina Rabkina (Cognitive Computing)
 * Johes Bater (Databases)
 * Scott Allen Cambo (Human-Centered Machine Learning)
-* German Espinosa (Swarm Robotics)
+* German Espinosa (Distributed Robotics)
 * Winston (Zihao) Wang (Computational Photograph)
 * Prem Seetharaman (Machine Learning from Audio)
 * Abhratanu Dutta (CS Theory)
