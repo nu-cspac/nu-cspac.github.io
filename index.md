@@ -28,20 +28,20 @@ PhD students at Northwestern University, and to give this community a voice with
 * Prem Seetharaman (Machine Learning from Audio)
 * Abhratanu Dutta (CS Theory)
 
-## Funding Student Iniatives
-One of the primary functions of CSPAC is to help the department alot
-financial resources to student iniatives, such as but not limited to
-reading groups and professionalization workshops. Currently,
-the Artificial Intelligence Journal Club (AIJC) is the only funded
-student initiative. If you would like to solicit a proposal for funding
-please email [**CSPAC@eecs.northwestern.edu**](mailto:CSPAC@eecs.northwestern.edu) with the following:
-* Founding members or current leaders of initiative
-* A summary of the initiative and how it will benefit the larger CS PhD community
-* A budget which includes: 
-	* Requested amount of funding
-	* A detailed description of how the funding will help the overall student initiative
+<> ## Funding Student Iniatives
+<> One of the primary functions of CSPAC is to help the department alot
+<> financial resources to student iniatives, such as but not limited to
+<> reading groups and professionalization workshops. Currently,
+<> the Artificial Intelligence Journal Club (AIJC) is the only funded
+<> student initiative. If you would like to solicit a proposal for funding
+<> please email [**CSPAC@eecs.northwestern.edu**](mailto:CSPAC@eecs.northwestern.edu) with the following:
+<> * Founding members or current leaders of initiative
+<> * A summary of the initiative and how it will benefit the larger CS PhD community
+<> * A budget which includes: 
+<> 	* Requested amount of funding
+<> 	* A detailed description of how the funding will help the overall student initiative
 
-We will be reviewing proposals to be funded in the winter and spring quarters of 2018 starting in December
-and will send notifications promptly upon the decision of the council.
+<> We will be reviewing proposals to be funded in the winter and spring quarters of 2018 starting in December
+<> and will send notifications promptly upon the decision of the council.
 
 
