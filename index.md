@@ -1,4 +1,5 @@
 # Northwestern University Computer Science PhD Advisory Council
+## [Please RSVP to our inaugural event by clicking here!](https://docs.google.com/forms/d/e/1FAIpQLSfkxndfHkcU2U_z4aoLct11uPu5G7c9C1t8N3BVL9jdecFxJg/viewform) 
 
 ## The Computer Science PhD Advisory Council (CSPAC) has a two-fold mission:
 We seek to foster a community among Computer Science PhD students (CSPhDs), 
