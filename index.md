@@ -24,6 +24,7 @@ PhD students at Northwestern University, and to give this community a voice with
 ## Current Members:
 * Irina Rabkina (Cognitive Computing)
 * Johes Bater (Databases)
+* Jamie Gorson (CS+LS)
 * Scott Allen Cambo (Human-Centered Machine Learning)
 * German Espinosa (Distributed Robotics)
 * Winston (Zihao) Wang (Computational Photography)
