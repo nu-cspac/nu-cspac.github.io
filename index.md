@@ -38,3 +38,15 @@ reading groups and professionalization workshops. Currently, we are
 working hard to put an application and funding process in place
 for student initiatives. If you have any questions or suggestions in the
 meantime, please email us at [**CSPAC@eecs.northwestern.edu**](mailto:CSPAC@eecs.northwestern.edu).
+
+## Contact Us
+Have a comment? Want to volunteer? Have a suggestion for us? Fill out this form:
+<form action="https://formspree.io/CSPAC@eecs.northwestern.edu"
+      method="POST">
+   Name <input type="text" name="name"> <br />
+   Email <input type="email" name="_replyto"> <br />
+   Comment <br /> 
+<textarea name="comment" cols="50" rows ="20"> </textarea>
+<br />
+<input type="submit" value="Send">
+</form> 
