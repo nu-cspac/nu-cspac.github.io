@@ -47,3 +47,43 @@ Have a comment? Want to volunteer? Have a suggestion for us? Fill out this form:
 <br />
 <input type="submit" value="Send">
 </form> 
+
+reading groups and professionalization workshops. Currently, we are 
+working hard to put an application and funding process in place
+for student initiatives. If you have any questions or suggestions in the
+meantime, please email us at [**CSPAC@eecs.northwestern.edu**](mailto:CSPAC@eecs.northwestern.edu).
+
+## Guidelines for Student Initiatives
+### Funding
+Groups can get funding for meals no more than once every other week (per university policy)
+Funding must not exceed:
+* $15 a person if it is a meal
+* $10 a person if it is a snack/coffee
+
+### Advertisement
+* Send description of group, meeting time to CS PhDs (publicize to CS community)
+	* Email at the beginning of every quarter there’s funding
+		* At least one week before first meeting
+		* CSPAC can help send to appropriate email list
+	* SLACK message every time they have an event with funding
+		* At least one day before
+* Starting spring quarter 2018, groups should have webpage linked from CSPAC page
+	* Documentation/instructions will be on cspac github
+
+### Group documentation
+* Groups must have mission statement
+* Groups must have formal election process 
+* Groups must document attendance at all events and turn in to CSPAC
+	* With application for subsequent quarter’s funding
+
+### Group make-up
+* Groups are encouraged to be made up of CS PhD community members of a variety of labs/concentrations
+	* Funding priority will be given to more diverse groups to help build CS PhD Community
+* Groups should be led by CS PhD students
+
+### Acceptable group purposes
+* Scholarship
+* Interdisciplinary focus
+* Fostering community among CSPhDs
+* Community service (outreach, volunteering, etc)
+>>>>>>> added guidelines for student initiatives
