@@ -46,11 +46,6 @@ Have a comment? Want to volunteer? Have a suggestion for us? Fill out this form:
 <input type="submit" value="Send">
 </form> 
 
-reading groups and professionalization workshops. Currently, we are 
-working hard to put an application and funding process in place
-for student initiatives. If you have any questions or suggestions in the
-meantime, please email us at [**CSPAC@eecs.northwestern.edu**](mailto:CSPAC@eecs.northwestern.edu).
-
 ## Guidelines for Student Initiatives
 ### Funding
 Groups can get funding for meals no more than once every other week (per university policy)
