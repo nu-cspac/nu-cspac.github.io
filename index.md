@@ -84,4 +84,3 @@ Funding must not exceed:
 * Interdisciplinary focus
 * Fostering community among CSPhDs
 * Community service (outreach, volunteering, etc)
->>>>>>> added guidelines for student initiatives
