@@ -1,6 +1,4 @@
 # Northwestern University Computer Science PhD Advisory Council
-## Come to our first Townhall event tomorrow evening at 5pm in Ford ITW!
-![Townhall Flyer]({{ site.baseurl }}/townhall_flyer.001.png)
 
 ## The Computer Science PhD Advisory Council (CSPAC) has a two-fold mission:
 We seek to foster a community among Computer Science PhD students (CSPhDs), 
