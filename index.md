@@ -1,5 +1,7 @@
 # Northwestern University Computer Science PhD Advisory Council
 
+## Check out our new wiki! This is for everyone to use to share information about the CS department: https://github.com/nu-cspac/nu-cspac-wiki/wiki
+
 ## The Computer Science PhD Advisory Council (CSPAC) has a two-fold mission:
 We seek to foster a community among Computer Science PhD students (CSPhDs), 
 defined as all PhD students at Northwestern University who take one of the 
@@ -19,7 +21,7 @@ We seek to give a voice to CSPhDs in department decisions that directly impact s
 The mission of the Computer Science PhD Advisory Council (CSPAC) is to foster a community within the student body of Computer Science 
 PhD students at Northwestern University, and to give this community a voice within the Computer Science Division.
 
-## Current Members:
+## Founding Members:
 * Irina Rabkina (Cognitive Computing)
 * Johes Bater (Databases)
 * Jamie Gorson (CS+LS)
