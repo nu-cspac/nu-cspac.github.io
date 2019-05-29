@@ -21,15 +21,14 @@ We seek to give a voice to CSPhDs in department decisions that directly impact s
 The mission of the Computer Science PhD Advisory Council (CSPAC) is to foster a community within the student body of Computer Science 
 PhD students at Northwestern University, and to give this community a voice within the Computer Science Division.
 
-## Founding Members:
-* Irina Rabkina (Cognitive Computing)
+## Current Members:
+* Allen Yilun Lin (Human-Computer Interaction)
 * Johes Bater (Databases)
 * Jamie Gorson (CS+LS)
-* Scott Allen Cambo (Human-Centered Machine Learning)
-* German Espinosa (Distributed Robotics)
-* Winston (Zihao) Wang (Computational Photography)
-* Prem Seetharaman (Machine Learning from Audio)
-* Abhratanu Dutta (CS Theory)
+* Sushobhan Ghosh (Computational Photography)
+* Ethan Manilow (Audio/Music Processing) 
+* Fengqiang Li (Computational Photography)
+* Can Gurkan (Agent-Based Modeling and AI)
 
 ## Funding Student Iniatives
 One of the primary functions of CSPAC is to help the department alot
