@@ -1,6 +1,6 @@
 # Northwestern University Computer Science PhD Advisory Council
 
-## Check out our new wiki! This is for everyone to use to share information about the CS department: https://github.com/nu-cspac/nu-cspac-wiki/wiki
+## Check out our [new wiki](https://github.com/nu-cspac/nu-cspac-wiki/wiki)! This is for everyone to use to share information about the CS department: 
 
 ## The Computer Science PhD Advisory Council (CSPAC) has a two-fold mission:
 We seek to foster a community among Computer Science PhD students (CSPhDs), 
