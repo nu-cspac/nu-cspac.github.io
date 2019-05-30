@@ -29,6 +29,7 @@ PhD students at Northwestern University, and to give this community a voice with
 * Ethan Manilow (Audio/Music Processing) 
 * Fengqiang Li (Computational Photography)
 * Can Gurkan (Agent-Based Modeling and AI)
+* Mike Lee (AI and Qualitative Reasoning)
 
 ## Funding Student Iniatives
 One of the primary functions of CSPAC is to help the department alot
