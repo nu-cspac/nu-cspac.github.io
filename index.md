@@ -34,7 +34,7 @@ PhD students at Northwestern University, and to give this community a voice with
 ## Funding Student Iniatives
 One of the primary functions of CSPAC is to help the department alot
 financial resources to student iniatives, such as but not limited to
-reading groups and professionalization workshops. To apply for funding, please submit an [application](https://goo.gl/forms/A3cCRCnn8Xtws6853) . If you have any questions or suggestions, please email us at [**CSPAC@eecs.northwestern.edu**](mailto:CSPAC@eecs.northwestern.edu).
+reading groups and professionalization workshops. To apply for funding, please submit an [application](https://goo.gl/forms/A3cCRCnn8Xtws6853) . If you have any questions or suggestions, please email us at CSPAC \[at] eecs.northwestern.edu.
 
 ## Contact Us
 Have a comment? Want to volunteer? Have a suggestion for us? Fill out this form:
