@@ -23,13 +23,13 @@ PhD students at Northwestern University, and to give this community a voice with
 
 ## Current Members:
 * Allen Yilun Lin (Human-Computer Interaction)
-* Johes Bater (Databases)
-* Jamie Gorson (CS+LS)
-* Sushobhan Ghosh (Computational Photography)
 * Ethan Manilow (Audio/Music Processing) 
-* Fengqiang Li (Computational Photography)
+* Xijun Wang (Computational Photography)
 * Can Gurkan (Agent-Based Modeling and AI)
 * Mike Lee (AI and Qualitative Reasoning)
+* Ettore M. G. Trainiti (Computer Architecture)
+* Nick LaGrassa (CS + Learning Science)
+* Stephanie Jones (CS + Learning Science)
 
 ## Funding Student Iniatives
 One of the primary functions of CSPAC is to help the department alot
