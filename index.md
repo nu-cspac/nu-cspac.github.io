@@ -1,8 +1,8 @@
 # Northwestern University Computer Science PhD Advisory Council
 
-## Check out our [new wiki](https://github.com/nu-cspac/nu-cspac-wiki/wiki)! This is for everyone to use to share information about the CS department: 
+CSPAC is a student group that advocates on the behalf of all Computer Science PHD students. We are here to serve you!
 
-## The Computer Science PhD Advisory Council (CSPAC) has a two-fold mission:
+## Our Mission
 We seek to foster a community among Computer Science PhD students (CSPhDs), 
 defined as all PhD students at Northwestern University who take one of the 
 Computer Science qualifying exams outlined in the Graduate Student Manual 
@@ -21,71 +21,15 @@ We seek to give a voice to CSPhDs in department decisions that directly impact s
 The mission of the Computer Science PhD Advisory Council (CSPAC) is to foster a community within the student body of Computer Science 
 PhD students at Northwestern University, and to give this community a voice within the Computer Science Division.
 
-## Current Members:
-* Allen Yilun Lin (Human-Computer Interaction)
-* Ethan Manilow (Machine Learning for Audio/Music) 
-* Xijun Wang (Computational Photography)
-* Can Gurkan (Agent-Based Modeling and AI)
-* Mike Lee (AI and Qualitative Reasoning)
-* Ettore M. G. Trainiti (Computer Architecture)
-* Nick LaGrassa (CS + Learning Science)
-* Stephanie Jones (CS + Learning Science)
+## Specific Ways That We Help
+- We maintain a student community [wiki](https://github.com/nu-cspac/nu-cspac-wiki/wiki). Check it out, and please send us suggestions for more content!
+- We provide information about starting student groups
+- We host advocacy events to inform and further the interests of CSPhDs
+- We raise and pursue student concerns with the department
 
-## Past Members:
-* Scott Cambo
-* Jamie Gorson
-* German Espinosa
-* Prem Seetharaman
-* Johes Bater
-* Irina Rabkina
 
-## Funding Student Iniatives
-One of the primary functions of CSPAC is to help the department alot
-financial resources to student iniatives, such as but not limited to
-reading groups and professionalization workshops. To apply for funding, please submit an [application](https://goo.gl/forms/A3cCRCnn8Xtws6853) . If you have any questions or suggestions, please email us at CSPAC \[at] eecs.northwestern.edu.
+## Members
+See [the wiki page](https://github.com/nu-cspac/nu-cs/wiki/CSPAC-members) for information about past and current members, as well as information on how to become a member.
 
 ## Contact Us
-Have a comment? Want to volunteer? Have a suggestion for us? Fill out this form:
-<form action="https://formspree.io/CSPAC@eecs.northwestern.edu"
-      method="POST">
-   Name <input type="text" name="name"> <br />
-   Email <input type="email" name="_replyto"> <br />
-   Comment <br /> 
-<textarea name="comment" cols="50" rows ="20"> </textarea>
-<br />
-<input type="submit" value="Send">
-</form> 
-
-## Guidelines for Student Initiatives
-### Funding
-Groups can get funding for meals no more than once every other week (per university policy)
-Funding must not exceed:
-* $15 a person if it is a meal
-* $10 a person if it is a snack/coffee
-
-### Advertisement
-* Send description of group, meeting time to CS PhDs (publicize to CS community)
-	* Email at the beginning of every quarter there’s funding
-		* At least one week before first meeting
-		* CSPAC can help send to appropriate email list
-	* SLACK message every time they have an event with funding
-		* At least one day before
-* Starting spring quarter 2018, groups should have webpage linked from CSPAC page
-	* Documentation/instructions will be on cspac github
-
-### Group documentation
-* Groups must have mission statement
-* Groups must have formal election process 
-* Groups must document attendance at all events and turn in to CSPAC
-	* With application for subsequent quarter’s funding
-
-### Group make-up
-* Groups are encouraged to be made up of CS PhD community members of a variety of labs/concentrations
-	* Funding priority will be given to more diverse groups to help build CS PhD Community
-* Groups should be led by CS PhD students
-
-### Acceptable group purposes
-* Scholarship
-* Interdisciplinary focus
-* Fostering community among CSPhDs
-* Community service (outreach, volunteering, etc)
+Send us an email with questions, comments, or suggestions any time at `cspac@cs.northwestern.edu`.
