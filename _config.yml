@@ -1,4 +1,7 @@
 title: Northwestern University PhD Student Advisory Council (CSPAC)
 description: Founded in the fall of 2017, CSPAC is a PhD student organization representing all PhD students in the Computer Science(CS), Technology and Social Behavior(TSB), and Computer Science + Learning Science (CS+LS) graduate programs at Northwestern University.
-theme: jekyll-theme-minimal
+theme: jekyll-theme-tactile
 baseurl: ""
+show_downloads: false
+github:
+  wiki_url: https://github.com/nu-cspac/nu-cs/wiki
