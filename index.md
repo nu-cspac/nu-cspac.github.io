@@ -1,5 +1,5 @@
 ---
-title: site.title
+title: {{ site.title }}
 ---
 ## Our Mission
 We seek to foster a community among Computer Science PhD students (CSPhDs), 
