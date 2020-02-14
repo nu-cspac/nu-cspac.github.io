@@ -1,6 +1,3 @@
----
-title: {{ site.title }}
----
 ## Our Mission
 We seek to foster a community among Computer Science PhD students (CSPhDs), 
 defined as all PhD students at Northwestern University who take one of the 
