@@ -2,23 +2,7 @@
 title: Home
 ---
 ## Our Mission
-We seek to foster a community among Computer Science PhD students (CSPhDs), 
-defined as all PhD students at Northwestern University who take one of the 
-Computer Science qualifying exams outlined in the Graduate Student Manual 
-in order to advance to candidacy in their degree. To this end, we:
-* Provide funding for groups, activities, and events organized by CSPhDs
-* Organize division-wide activities
-* Serve as liaisons between CSPhDs, the department administrators, and faculty as needed
-
-We seek to give a voice to CSPhDs in department decisions that directly impact student life. These include, but are not limited to:
-* CSPhD student admissions
-* Faculty hiring
-* CSPhD student office spaces and locations
-* Changes to CSPhD student graduation requirements
-* Advocacy for diversity of background and viewpoint at all levels
-
-The mission of the Computer Science PhD Advisory Council (CSPAC) is to foster a community within the student body of Computer Science 
-PhD students at Northwestern University, and to give this community a voice within the Computer Science Division.
+The mission of the Computer Science PhD Advisory Council is to promote the well-being of CSPhDs through advocacy and information-sharing. We seek to create and curate an accessible informational repository to connect CSPhDs with the resources they need for a healthy and productive graduate experience. We strive to elevate the voice and power of CSPhD students to address concerns that directly impact student life, including departmental policies and decisions.
 
 ## Specific Ways That We Help
 - We maintain a student community [wiki](https://github.com/nu-cspac/nu-cspac-wiki/wiki). Check it out, and please send us suggestions for more content!
