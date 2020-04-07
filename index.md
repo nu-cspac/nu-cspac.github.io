@@ -14,5 +14,8 @@ The mission of the Computer Science PhD Advisory Council is to promote the well-
 ## Members
 See [the wiki page](https://github.com/nu-cspac/nu-cs/wiki/CSPAC-members) for information about past and current members, as well as information on how to become a member.
 
+## Constitution
+For detailed information on how CSPAC operates, see [the constitution](https://github.com/nu-cspac/constitution). 
+
 ## Contact Us
-Send us an email with questions, comments, or suggestions any time at `cspac@cs.northwestern.edu`.
+Send us an email with questions, comments, or suggestions any time at `cspac@u.northwestern.edu`.
